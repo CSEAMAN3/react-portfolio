@@ -142,6 +142,24 @@ class Header extends Component {
             </div>
           </div>
         </div>
+        {/* may need to delete */}
+
+        <div class="area">
+          <ul class="circles">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+        </div>
+
+        {/* may need to delete */}
       </header>
     );
   }
