@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Chris Seaman. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+    "description": "👋 I'm Chris Seaman a passionate React developer. 💜",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -14,7 +14,7 @@
       "title": "Animal Shelter",
       "startDate": "2020",
       "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-      "images": ["images/portfolio/animal-shelter/p1.jpg", "images/portfolio/animal-shelter/p2.jpg"],
+      "images": ["images/portfolio/boba-gaming/logo-one.svg", "images/portfolio/animal-shelter/p2.jpg"],
       "url": "",
       "technologies": [
         {
@@ -72,28 +72,18 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
-      "mainTech": ["Angular 8/9/10"],
-      "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
-      ]
+      "company": "Tech Eductors",
+      "title": "Full Stack Mern Bootcamp",
+      "years": "08.2022 - 11.2022",
+      "mainTech": ["Mern Stack"],
+      "technologies": ["HTML 5", "CSS", "JavaScript", "React JS", "SCSS", "Mongo DB", "Express", "Node.js"]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
-      "mainTech": ["Angular 7/8"],
-      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+      "company": "Scrimba",
+      "title": "Front End Developer Career Path",
+      "years": "01.2022 - 08.2022",
+      "mainTech": ["React"],
+      "technologies": ["HTML 5", "CSS", "Javascript", "React"]
     }
   ]
 }
